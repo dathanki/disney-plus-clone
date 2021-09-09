@@ -1,3 +1,14 @@
+# Live Deployment
+
+This project was deployed with [Firebase Hosting](https://disney-plus-clone-9b689.web.app/).
+
+# Tools used
+
+- redux
+- styled components
+- react
+- firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
